@@ -45,9 +45,8 @@ Amazon Sales Dashboard
 - Data-driven insights from the dashboard enable stakeholders to make informed decisions, improve profitability, and enhance customer satisfaction.
 
 7. Dashboard Preview
-- Show what the dashboard looks like
--  
-
+- Show what the dashboard looks like.-https:[Alt text](//github.com/username/repo/assets/image.png)
+- Example : [Dashboard Preview](https://github.com/PreetiSharmaa035/Amazon-Sales-Dashboard/blob/main/Dashboard.png)
 
 8. Key Learnings
 - Developed an end-to-end Amazon sales analytics solution.  
